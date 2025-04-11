@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site contains a collection of scripts for optimising Windows 10 / 11 using powershell.
   The site also includes a vairiety of methods for running scripts and making cool use of 
   github tokens and cloudflare based workers for IRM redirection
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "hhttps://github.com/Malcolm-GITHub/Tech_tools/" # the subpath of your site, e.g. /blog
+url: "https://malcolm-github.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MyWorldSA
 github_username:  Malcolm-GitHub
 
