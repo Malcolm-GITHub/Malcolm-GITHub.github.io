@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+didnt work here is my index.html can we update it as index.markdown as well              <!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -10,6 +10,7 @@
   <link rel="manifest" href="/site.webmanifest">
 
   <meta name="google-site-verification" content="43Mi1RK6ursf5RH58VVso1RVAjnpky8Fe9x1JYEHL7k" />
+  
   <!-- SEO Meta Tags -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -72,7 +73,7 @@
 
     <h1>💻 Malcolm's Windows 10 / 11 Performance Optimisation Tools</h1>
     <p>
-      Welcome to my hacker-themed landing page for a curated toolkit of Windows 10/11 performance and cleanup scripts.<br>
+      Welcome to my themed landing page for a curated toolkit of Windows 10/11 performance and cleanup scripts.<br>
       Built using PowerShell, JavaScript, C#, and wrapped in a Cloudflare magic cloak ☁️🪄.
     </p>
 
