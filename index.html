@@ -3,54 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - Seriously we have looked in every city on the map. There's no such thing</title>
+  <title>Malcolm's Windows 10/11 Optimization Tools</title>
   <style>
     body {
       background-color: black;
       color: #33ff33;
       font-family: 'Courier New', Courier, monospace;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
+      padding: 40px;
       text-align: center;
     }
     img {
-      width: 300px;
+      width: 400px;
       margin-bottom: 20px;
     }
-    h1 {
-      font-size: 3em;
-    }
-    p {
-      font-size: 1.2em;
-    }
     a {
-      display: inline-block;
-      margin-top: 30px;
-      padding: 10px 20px;
-      background-color: #111;
-      border: 1px solid #33ff33;
-      color: #33ff33;
+      color: #00ffff;
       text-decoration: none;
       font-weight: bold;
-      transition: all 0.3s ease;
     }
     a:hover {
-      background-color: #33ff33;
-      color: black;
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .box {
+      border: 1px solid #33ff33;
+      padding: 20px;
+      margin-top: 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+    code {
+      color: #00ffff;
+      background-color: #111;
+      padding: 3px 6px;
+      display: inline-block;
+      margin-top: 10px;
+      font-size: 1.1em;
     }
   </style>
 </head>
 <body>
 
-  <img src="/assets/gifs/404.gif" alt="404 Animation">
-  <h1>404 :: System Path Not Found</h1>
-  <p>The page you're looking for either never existed or was moved to a shadow dimension in anouther universe.</p>
+  <div class="container">
+    <img src="/assets/gifs/lander.gif" alt="Lander Animation">
 
-  <a href="/">⏎ Return to Base</a>
+    <h1>💻 Malcolm's Windows 10 / 11 Performance Optimisation Tools</h1>
+    <p>
+      Welcome to my hacker-themed landing page for a curated toolkit of Windows 10/11 performance and cleanup scripts.<br>
+      Built using PowerShell, JavaScript, C#, and wrapped in a Cloudflare magic cloak ☁️🪄.
+    </p>
+
+    <div class="box">
+      <h2>🛠 About This Toolkit</h2>
+      <p>
+        <strong>Tech_tools</strong> is a private collection of automation scripts to simplify PC maintenance.<br>
+        Examples include tools using PowerShell, Chocolatey, Winget, and useful links.<br>
+        New additions are regularly pushed and tested in various scenarios.
+      </p>
+    </div>
+
+    <div class="box">
+      <h2>🚀 How to Use the Tools</h2>
+      <p>
+        These scripts can’t be run directly from GitHub due to HTTP redirect restrictions and private access.<br>
+        To handle this securely, I’ve built a <strong>Cloudflare Worker</strong> that uses a GitHub token to:
+      </p>
+      <ul style="text-align:left; max-width: 650px; margin: 0 auto;">
+        <li>✓ Actively fetch the latest GitHub release asset ID</li>
+        <li>✓ Inject an authorization token securely</li>
+        <li>✓ Fetch and deliver the script as raw code for PowerShell to execute</li>
+      </ul>
+
+      <p><strong>Fastest way to run the toolkit:</strong></p>
+      <code>irm tinyurl.com/trixit2secure | iex</code>
+
+      <p>
+        This one-liner securely routes your PowerShell request via Cloudflare to GitHub’s raw content.<br>
+        The script will load, authenticate with the token, and auto-download any required files or libraries.
+      </p>
+    </div>
+
+    <div class="box">
+      <h2>🔗 Repo Access</h2>
+      <p>This is a <strong>private GitHub repository</strong>. If you’ve been granted access, head here:</p>
+      <a href="https://github.com/Malcolm-GITHub/Tech_tools" target="_blank">
+        👉 Malcolm-GITHub/Tech_tools
+      </a>
+    </div>
+
+    <p style="margin-top: 40px;">Stay optimized. Stay stealthy. 🕶️</p>
+  </div>
 
 </body>
 </html>
