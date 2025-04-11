@@ -1,4 +1,4 @@
-didnt work here is my index.html can we update it as index.markdown as well              <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 
