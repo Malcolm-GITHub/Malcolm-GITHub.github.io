@@ -33,6 +33,7 @@ github_username:  Malcolm-GitHub
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 include:
   - favicon.ico
@@ -60,3 +61,4 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+"# rebuild trigger" 
