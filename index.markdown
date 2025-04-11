@@ -9,8 +9,6 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 
-  <meta name="google-site-verification" content="43Mi1RK6ursf5RH58VVso1RVAjnpky8Fe9x1JYEHL7k" />
-  
   <!-- SEO Meta Tags -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -26,6 +24,7 @@
   <meta property="og:image" content="https://malcolm-github.github.io/assets/gifs/lander.gif" /> <!-- Optional but great! -->
 
   <title>Malcolm's Windows 10/11 Optimization Tools</title>
+  <meta name="google-site-verification" content="43Mi1RK6ursf5RH58VVso1RVAjnpky8Fe9x1JYEHL7k" />
   <style>
     body {
       background-color: black;
@@ -119,4 +118,9 @@
   </div>
 
 </body>
+<<<<<<< Updated upstream
 </html>
+=======
+</html>"" 
+"" 
+>>>>>>> Stashed changes

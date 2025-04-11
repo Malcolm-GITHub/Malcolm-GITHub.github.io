@@ -41,6 +41,8 @@ include:
   - favicon-32x32.png
   - apple-touch-icon.png
   - site.webmanifest
+  - google23432ada9039261c.html
+
   
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,3 +64,5 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 "# rebuild trigger" 
+"# force rebuild: $(date)" 
+"# force rebuild: $(date)" 
